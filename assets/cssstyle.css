@@ -1,0 +1,142 @@
+.supehtag {
+	border: 1px solid #C2CCD6;
+}
+.timeline {
+	font-family: Verdana;
+	font-size: 11px;
+	color: #6F939D;
+	text-decoration: none;
+}
+.highlight {
+	background-color: #DEE9F3;
+}
+.supehtagCopy {
+
+	border: 2px solid #C4CDD7;
+}
+.supehtagCopy4 {
+
+
+	border: 2px solid ##C6D7DF;
+}
+
+.style2 {font-size: 12px; font-family: Verdana;}
+.style3 {
+	font-size: 13px;
+	font-family: Verdana;
+	color: #0D60A4;
+	font-weight: normal;
+}
+.style4 {font-size: 11px}
+.style6 {font-size: 11px; font-family: Verdana; }
+.style8 {color: #7397A2}
+.style10 {color: #4993AB}
+.style11 {color: #7D390D}
+.style12 {color: #EC7406}
+.style13 {
+	color: #6CB028;
+	font-family: Georgia;
+	font-size: 14px;
+}
+a:link {
+	color: #CA6000;
+}
+a:hover {
+	color: #BF060B;
+}
+.style17 {
+	font-family: Georgia;
+	color: #C28107;
+	font-size: 18px;
+}
+.style18 {color: #333333}
+.style23 {font-family: Georgia; font-size: 16px; }
+.style26 {color: #0D60A4}
+.style28 {color: #6CAB0E}
+.style30 {color: #63A718}
+.style33 {font-size: 9px; font-weight: bold; }
+.style35 {
+	color: #EC7406;
+	font-family: Verdana;
+	font-weight: bold;
+	font-size: 11px;
+}
+.style37 {font-family: Georgia; font-size: 16px; color: #217BC5; }
+.style38 {color: #C2250A}
+.style39 {
+	color: #538B07;
+	font-weight: bold;
+}
+.style41 {color: #6CAB0E; font-size: 12px; }
+.style47 {color: #6CAB0E; font-size: 10px; font-weight: bold; font-family: Verdana; }
+.style49 {font-family: Verdana; font-size: 12px; font-weight: bold; }
+.style50 {color: #C6490D}
+.style51 {
+	font-size: 9px;
+	color: #205877;
+}
+.style52 {
+	color: #B50F13;
+	font-size: 9px;
+}
+.style53 {color: #000000}
+.style57 {color: #666666}
+.style58 {
+	color: #5A7DA0;
+	font-weight: bold;
+}
+.style59 {color: #3E75AC}
+.style61 {color: #2979D1}
+.style65 {font-size: 9px}
+.style66 {color: #768596}
+.style67 {color: #FFFFFF}
+.style70 {font-size: 24px; color: #000000; font-family: Arial;}
+.style71 {color: #B0BDC4}
+.style72 {font-family: Verdana; font-size: 11px; font-weight: bold; }
+.style73 {color: #5A7DA0}
+.style74 {
+	color: #283848;
+	font-weight: bold;
+}
+.style75 {color: #283848}
+.style76 {color: #3A798B}
+.style78 {font-family: Georgia; font-size: 16px; color: #385B78; }
+.style79 {color: #385B78}
+.style80 {color: #217BC5}
+.style81 {color: ##267AA8; font-weight: bold; }
+.style84 {font-size: 12px}
+.style86 {
+	color: #267AA8;
+	font-weight: bold;
+	font-size: 11px;
+}
+.style88 {color: ##267AA8}
+.style89 {color: #385B78; font-weight: bold; font-size: 11px; }
+.spacing {
+	line-height: 16px;
+}
+.supehtaggreen {
+
+	border: 1px solid #93BF80;
+}
+.arrowbg {
+	background-color: #E6EBEF;
+	background-image: url(archive/bgthing.gif);
+	background-repeat: repeat-x;
+	background-position: top;
+}
+.bgsleepcycle {
+
+	background-color: #FBFBFB;
+	background-image: url(archive/bgtxt.gif);
+	background-repeat: repeat-x;
+	background-position: top;
+}
+.bgtime {
+
+
+	background-color: #E7ECEE;
+	background-image: url(longtimelinebg.gif);
+	background-repeat: repeat-x;
+	background-position: top;
+}
